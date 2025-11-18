@@ -1,0 +1,10 @@
+# Firebase credentials
+server/serviceAccountKey.json
+
+# Node modules
+server/node_modules/
+
+# Flutter/Dart
+.dart_tool/
+.packages
+build/
